@@ -1,2 +1,1 @@
-# Simple-Coin-Auto-Clicker
-Simple-Coin-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
